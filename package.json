@@ -1,0 +1,26 @@
+{
+  "name": "joo",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pierre-CLT/M1.git"
+  },
+  "keywords": [
+    "azerty"
+  ],
+  "author": "Pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pierre-CLT/M1/issues"
+  },
+  "homepage": "https://github.com/Pierre-CLT/M1#readme",
+  "dependencies": {
+    "expres": "^0.0.5"
+  }
+}
